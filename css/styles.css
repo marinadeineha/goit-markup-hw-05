@@ -696,6 +696,7 @@ button {
 }
 
 .review-form-comment {
+  display: block;
   width: 100%;
   height: 120px;
   color: rgba(46, 47, 66, 0.4);
